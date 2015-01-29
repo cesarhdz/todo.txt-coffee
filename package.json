@@ -8,12 +8,12 @@
     "gtd"
   ],
   "license": "MIT",
-  "main": "TodoList.coffee",
+  "main": "dist/TodoList.js",
   "repository": {
     "type": "git",
     "url": "https://jwill@github.com/jwill/todo.txt-coffee.git"
   },
-  "dependencies": {
+  "devDependencies": {
     "coffee-script": ">=1.3.0"
   },
   "engines": {
